@@ -139,12 +139,6 @@
       "descricao": "Novo atendimento",
       "stack": "MainTab",
       "nav": "AtendimentoAceitoDados"
-    },
-    {
-      "id": 5,
-      "descricao": "Atendimento Encerrado",
-      "stack": "MainTab",
-      "nav": "Atendimentos"
     }
    ]
 }
