@@ -145,12 +145,6 @@
       "descricao": "Atendimento Encerrado",
       "stack": "MainTab",
       "nav": "Atendimentos"
-    },
-    {
-      "id": 6,
-      "descricao": "Atendimento Encerrado 2",
-      "stack": "MainTab",
-      "nav": "Atendimentos"
     }
    ]
 }
