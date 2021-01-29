@@ -72,5 +72,47 @@
          "currentLongitude": "-38.393557"
        }
      }
+   ],
+   "select": [
+    {
+      "id": "01",
+      "nome": "Roteador",
+      "quantidade": "02",
+      "imagem": "imagem",
+      "mac": "014137",
+      "serial": "1212324235345",
+      "label": "roteador",
+      "value": "0"
+    },
+    {
+      "id": "02",
+      "nome": "Cabo",
+      "quantidade": "02",
+      "imagem": "imagem",
+      "mac": "12312134535356456456",
+      "serial": "",
+      "label": "cabo",
+      "value": "1"
+    },
+    {
+      "id": "03",
+      "nome": "Mouse",
+      "quantidade": "02",
+      "imagem": "imagem",
+      "mac": "2",
+      "serial": "1212324235345",
+      "label": "roteador",
+      "value": "2"
+    },
+    {
+      "id": "04",
+      "nome": "teclado",
+      "quantidade": "02",
+      "imagem": "imagem",
+      "mac": "",
+      "serial": "1212324235345",
+      "label": "roteador",
+      "value": "0"
+    }
    ]
-   }
+}
