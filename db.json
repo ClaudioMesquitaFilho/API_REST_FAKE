@@ -138,7 +138,7 @@
       "id": 4,
       "descricao": "Novo atendimento",
       "stack": "MainTab",
-      "nav": "AtendimentoAceitoDados"
+      "nav": "Home"
     }
    ]
 }
