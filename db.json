@@ -140,5 +140,77 @@
       "stack": "MainTab",
       "nav": "Home"
     }
+   ],
+   "atendimentoFechado" : [
+    {
+      "contrato": "0001",
+      "name": "Claudio",
+      "idade": "23",
+      "date": "10/11/2020 - 20:00",
+      "tipo": "reparo",
+      "numero": "86868686",
+      "prioridade": "media",
+      "color": "#5cb85c",
+      "descricao":
+        "um belo teste para passar como parametro para ver se o teste vai ficar bem feito"
+    },
+    {
+      "contrato": "0002",
+      "name": "Rafael",
+      "idade": "23",
+      "date": "10/11/20 - 20:00",
+      "tipo": "reparo",
+      "numero": "86868686",
+      "prioridade": "baixa",
+      "color": "#cecece",
+      "descricao":
+        "um belo teste2 para passar como parametro para ver se o teste vai ficar bem feito"
+    },
+    {
+      "contrato": "0003",
+      "name": "Josinal",
+      "idade": "23",
+      "date": "10/11/20 - 20:00",
+      "tipo": "reparo",
+      "numero": "86869090",
+      "prioridade": "alta",
+      "color": "#d9534f",
+      "descricao":
+        "um belo teste3 para passar como parametro para ver se o teste vai ficar bem feito"
+    }
+   ],
+   "estoque": [
+    {
+      "id": 0,
+      "nome": "Roteador",
+      "quantidade": "6",
+      "imagem": "https://www.google.com/search?q=roteador&sxsrf=ALeKk00csk6yIBR-eW1lMacnkMn29-M1Rg:1612011697767&source=lnms&tbm=isch&sa=X&ved=2ahUKEwi5vfnE28PuAhUnIbkGHWspCNEQ_AUoAnoECAIQBA&biw=1366&bih=657#imgrc=FHBN0BdXFwtY_M",
+      "mac": "1231213453535645644754565757897978456",
+      "serial": "1213424234"
+    },
+    {
+      "id": 1,
+      "nome": "Switch",
+      "quantidade": "22",
+      "imagem": "https://www.google.com/search?q=switch+24+portas&tbm=isch&ved=2ahUKEwic6-3S28PuAhX_BbkGHdv_CG4Q2-cCegQIABAA&oq=switch+24+portas&gs_lcp=CgNpbWcQAzICCAAyAggAMgIIADICCAAyAggAMgIIADICCAAyBggAEAUQHjIGCAAQCBAeMgYIABAIEB46BwgAELEDEEM6BAgAEEM6BAgAEB5QknhY54cBYIiJAWgAcAB4AIABnQGIAegJkgEDMC45mAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=zlgVYJzMOP-L5OUP2_-j8AY&bih=657&biw=1366#imgrc=xtfWPsODWZSL_M",
+      "mac": "13423445345",
+      "serial": "23423423543"
+    },
+    {
+      "id": 2,
+      "nome": "Cabo cat5e",
+      "quantidade": "300",
+      "imagem": "https://www.google.com/search?q=cabo+cat5e&tbm=isch&ved=2ahUKEwiR7ojc28PuAhWzDNQKHZXgAGEQ2-cCegQIABAA&oq=cabo+cat5e&gs_lcp=CgNpbWcQAzICCAAyAggAMgIIADICCAAyAggAMgYIABAFEB4yBggAEAUQHjIGCAAQBRAeMgYIABAIEB4yBggAEAgQHjoECCMQJzoICAAQsQMQgwE6BAgAEEM6BQgAELEDOgcIABCxAxBDUIyIAVj5nwFg2aUBaABwAHgAgAGXAYgB0QqSAQQwLjEwmAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=4lgVYJH1DrOZ0AaVwYOIBg&bih=657&biw=1366#imgrc=Zw1hs0hMbw4g_M",
+      "mac": "13423445345",
+      "serial": "23423423543"
+    },
+    {
+      "id": 3,
+      "nome": "Cabo cat6",
+      "quantidade": "300",
+      "imagem": "https://www.google.com/search?q=cabo+cat6&tbm=isch&ved=2ahUKEwiwjPfm28PuAhWsDdQKHUP9DsQQ2-cCegQIABAA&oq=cabo+cat6&gs_lcp=CgNpbWcQAzICCAAyAggAMgIIADICCAAyAggAMgIIADICCAAyBggAEAUQHjIGCAAQBRAeMgYIABAFEB46BAgjECc6BggAEAgQHlCF1QFY1dsBYPnfAWgAcAB4AIABiQGIAY0DkgEDMC4zmAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=-VgVYPCrAayb0AbD-rugDA&bih=657&biw=1366#imgrc=f3wx8JS5UDaLAM",
+      "mac": "134235345",
+      "serial": "2342423543"
+    }
    ]
 }
