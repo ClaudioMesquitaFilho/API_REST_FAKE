@@ -189,7 +189,7 @@
    ],
    "dadosCliente": [
      {
-       "id": 0001,
+       "id": "0001",
         "dados": 
           {
             "nome": "Antonio Claudio Ferreira de Mesquita Filho",
@@ -213,7 +213,7 @@
         
      },
      {
-      "contrato": 0002,
+      "id": "0002",
        "dados": 
          {
            "nome": "Antonio Mesquita Filho",
