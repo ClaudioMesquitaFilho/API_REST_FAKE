@@ -115,32 +115,6 @@
       "value": "0"
     }
    ],
-   "notificacao": [
-    {
-      "id": 1,
-      "descricao": "Novo item no estoque",
-      "stack": "MainTab",
-      "nav": "Estoque"
-    },
-    {
-      "id": 2,
-      "descricao": "Atendimento Encerrado",
-      "stack": "MainTab",
-      "nav": "Atendimentos"
-    },
-    {
-      "id": 3,
-      "descricao": "Novo item no estoque: Roteador",
-      "stack": "MainTab",
-      "nav": "Estoque"
-    },
-    {
-      "id": 4,
-      "descricao": "Novo atendimento",
-      "stack": "MainTab",
-      "nav": "Home"
-    }
-   ],
    "atendimentoFechado" : [
     {
       "contrato": "0001",
