@@ -115,43 +115,36 @@
       "value": "0"
     }
    ],
-   "atendimentoFechado" : [
-    {
+   "servicos" : [
+     {
       "contrato": "0001",
-      "name": "Claudio",
-      "idade": "23",
-      "date": "10/11/2020 - 20:00",
-      "tipo": "reparo",
-      "numero": "86868686",
-      "prioridade": "media",
-      "color": "#5cb85c",
-      "descricao":
-        "um belo teste para passar como parametro para ver se o teste vai ficar bem feito"
-    },
-    {
-      "contrato": "0002",
-      "name": "Rafael",
-      "idade": "23",
-      "date": "10/11/20 - 20:00",
-      "tipo": "reparo",
-      "numero": "86868686",
-      "prioridade": "baixa",
-      "color": "#cecece",
-      "descricao":
-        "um belo teste2 para passar como parametro para ver se o teste vai ficar bem feito"
-    },
-    {
-      "contrato": "0003",
-      "name": "Josinal",
-      "idade": "23",
-      "date": "10/11/20 - 20:00",
-      "tipo": "reparo",
-      "numero": "86869090",
-      "prioridade": "alta",
-      "color": "#d9534f",
-      "descricao":
-        "um belo teste3 para passar como parametro para ver se o teste vai ficar bem feito"
-    }
+        "services": {
+          "id": 1, 
+          "dados":{
+            "plano": "Plano de 200MB",
+            "dataContrata": "23/12/2019",
+            "vencimento": 10,
+            "valor": "40,00",
+            "situacao": "Ativo",
+            "fidelidade": "Sim",
+            "virgencia": "23/12/2022"
+          }        
+        }
+      },
+      {
+        "services": {
+          "id": 2, 
+          "dados":{
+            "plano": "Plano de 100MB",
+            "dataContrata": "23/12/2018",
+            "vencimento": 10,
+            "valor": "40,00",
+            "situacao": "Inativo",
+            "fidelidade": "Nao",
+            "virgencia": "23/12/2019"
+          }        
+        }
+     }
    ],
    "estoque": [
     {
@@ -208,7 +201,7 @@
             "email": "claudio@gmail.com",
             "loginCentral": "1231",
             "senhaCentral": "123",
-            "condominio": false,
+            "condominio": true,
             "endereco": "rua dos animais",
             "numero": "420",
             "complemento": "ao lado",
