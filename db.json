@@ -212,7 +212,7 @@
    "servicos" : [
      {
       "contrato": "0001",
-        "services": {
+        
             "id": 1, 
             "dados":{
               "plano": "Plano de 200MB",
@@ -223,7 +223,7 @@
               "fidelidade": "Sim",
               "virgencia": "23/12/2022"
             }
-          }        
+                
         }     
    ]
 }
