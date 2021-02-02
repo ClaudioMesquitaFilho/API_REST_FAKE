@@ -212,8 +212,7 @@
    "servicos" : [
      {
       "contrato": "0001",
-        "services": [
-          {
+        "services": {
             "id": 1, 
             "dados":{
               "plano": "Plano de 200MB",
@@ -224,20 +223,7 @@
               "fidelidade": "Sim",
               "virgencia": "23/12/2022"
             }
-          },
-          {
-            "id": 2, 
-            "dados":{
-              "plano": "Plano de 100MB",
-              "dataContrata": "23/12/2018",
-              "vencimento": 10,
-              "valor": "40,00",
-              "situacao": "Inativo",
-              "fidelidade": "Nao",
-              "virgencia": "23/12/2019"
-            }
-          }
-        ]
-      }
+          }        
+        }     
    ]
 }
