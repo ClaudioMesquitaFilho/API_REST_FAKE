@@ -115,37 +115,6 @@
       "value": "0"
     }
    ],
-   "servicos" : [
-     {
-      "contrato": "0001",
-        "services": {
-          "id": 1, 
-          "dados":{
-            "plano": "Plano de 200MB",
-            "dataContrata": "23/12/2019",
-            "vencimento": 10,
-            "valor": "40,00",
-            "situacao": "Ativo",
-            "fidelidade": "Sim",
-            "virgencia": "23/12/2022"
-          }        
-        }
-      },
-      {
-        "services": {
-          "id": 2, 
-          "dados":{
-            "plano": "Plano de 100MB",
-            "dataContrata": "23/12/2018",
-            "vencimento": 10,
-            "valor": "40,00",
-            "situacao": "Inativo",
-            "fidelidade": "Nao",
-            "virgencia": "23/12/2019"
-          }        
-        }
-     }
-   ],
    "estoque": [
     {
       "id": 0,
@@ -239,5 +208,65 @@
          }
        
     }
+   ],
+   "servicos" : [
+     {
+      "contrato": "0001",
+        "services": [
+          {
+            "id": 1, 
+            "dados":{
+              "plano": "Plano de 200MB",
+              "dataContrata": "23/12/2019",
+              "vencimento": 10,
+              "valor": "40,00",
+              "situacao": "Ativo",
+              "fidelidade": "Sim",
+              "virgencia": "23/12/2022"
+            }
+          },
+          {
+            "id": 2, 
+            "dados":{
+              "plano": "Plano de 100MB",
+              "dataContrata": "23/12/2018",
+              "vencimento": 10,
+              "valor": "40,00",
+              "situacao": "Inativo",
+              "fidelidade": "Nao",
+              "virgencia": "23/12/2019"
+            }
+          }
+        ]
+      },
+    {
+      "contrato": "0002",
+        "services": [
+          {
+            "id": 1, 
+            "dados":{
+              "plano": "Plano de 300MB",
+              "dataContrata": "23/12/2019",
+              "vencimento": 10,
+              "valor": "40,00",
+              "situacao": "Ativo",
+              "fidelidade": "Sim",
+              "virgencia": "23/12/2022"
+            }
+          },
+          {
+            "id": 2, 
+            "dados":{
+              "plano": "Plano de 400MB",
+              "dataContrata": "23/12/2018",
+              "vencimento": 10,
+              "valor": "40,00",
+              "situacao": "Inativo",
+              "fidelidade": "Nao",
+              "virgencia": "23/12/2019"
+            }
+          }
+        ]
+      }
    ]
 }
