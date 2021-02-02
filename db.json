@@ -209,7 +209,7 @@
        
     }
    ],
-   "servicos/contrato" : [
+   "servicos" : [
      {
       "contrato": "0001",
         "services": [
