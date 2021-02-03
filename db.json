@@ -212,7 +212,6 @@
    "servicos" : 
      {
       "contrato": "0001",
-            "dados":{
               "plano": "Plano de 200MB",
               "dataContrata": "23/12/2019",
               "vencimento": 10,
@@ -220,7 +219,5 @@
               "situacao": "Ativo",
               "fidelidade": "Sim",
               "virgencia": "23/12/2022"
-            }
         }     
-   
 }
