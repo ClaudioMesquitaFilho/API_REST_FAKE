@@ -122,7 +122,9 @@
       "quantidade": "6",
       "imagem": "https://reactnative.dev/img/tiny_logo.png",
       "mac": "1231213453535645644754565757897978456",
-      "serial": "1213424234"
+      "serial": "1213424234",
+      "label": "Roteador",
+      "value": 0
     },
     {
       "id": 1,
@@ -130,7 +132,9 @@
       "quantidade": "22",
       "imagem": "https://www.google.com/search?q=switch+24+portas&tbm=isch&ved=2ahUKEwic6-3S28PuAhX_BbkGHdv_CG4Q2-cCegQIABAA&oq=switch+24+portas&gs_lcp=CgNpbWcQAzICCAAyAggAMgIIADICCAAyAggAMgIIADICCAAyBggAEAUQHjIGCAAQCBAeMgYIABAIEB46BwgAELEDEEM6BAgAEEM6BAgAEB5QknhY54cBYIiJAWgAcAB4AIABnQGIAegJkgEDMC45mAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=zlgVYJzMOP-L5OUP2_-j8AY&bih=657&biw=1366#imgrc=xtfWPsODWZSL_M",
       "mac": "13423445345",
-      "serial": "23423423543"
+      "serial": "",
+      "label": "Switch",
+      "value": 1
     },
     {
       "id": 2,
@@ -138,7 +142,9 @@
       "quantidade": "300",
       "imagem": "https://www.google.com/search?q=cabo+cat5e&tbm=isch&ved=2ahUKEwiR7ojc28PuAhWzDNQKHZXgAGEQ2-cCegQIABAA&oq=cabo+cat5e&gs_lcp=CgNpbWcQAzICCAAyAggAMgIIADICCAAyAggAMgYIABAFEB4yBggAEAUQHjIGCAAQBRAeMgYIABAIEB4yBggAEAgQHjoECCMQJzoICAAQsQMQgwE6BAgAEEM6BQgAELEDOgcIABCxAxBDUIyIAVj5nwFg2aUBaABwAHgAgAGXAYgB0QqSAQQwLjEwmAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=4lgVYJH1DrOZ0AaVwYOIBg&bih=657&biw=1366#imgrc=Zw1hs0hMbw4g_M",
       "mac": "13423445345",
-      "serial": "23423423543"
+      "serial": "23423423543",
+      "label": "Cabo cat5e",
+      "value": 2
     },
     {
       "id": 3,
@@ -146,7 +152,9 @@
       "quantidade": "300",
       "imagem": "https://www.google.com/search?q=cabo+cat6&tbm=isch&ved=2ahUKEwiwjPfm28PuAhWsDdQKHUP9DsQQ2-cCegQIABAA&oq=cabo+cat6&gs_lcp=CgNpbWcQAzICCAAyAggAMgIIADICCAAyAggAMgIIADICCAAyBggAEAUQHjIGCAAQBRAeMgYIABAFEB46BAgjECc6BggAEAgQHlCF1QFY1dsBYPnfAWgAcAB4AIABiQGIAY0DkgEDMC4zmAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=-VgVYPCrAayb0AbD-rugDA&bih=657&biw=1366#imgrc=f3wx8JS5UDaLAM",
       "mac": "134235345",
-      "serial": "2342423543"
+      "serial": "2342423543",
+      "label": "Cabo cat6",
+      "value": 3
     }
    ],
    "dadosCliente": [
