@@ -1,5 +1,5 @@
 {
-    "atendimentos" : [
+   "atendimentos" : [
        {
        "atendimento": "0001",
        "dadosN": {
@@ -157,75 +157,60 @@
       "value": 3
     }
    ],
-   "dadosCliente": [
-     {
-       "id": "0000003",
-        "dados": 
-          {
-            "nome": "Antonio Claudio Ferreira de Mesquita Filho",
-            "cpf": "08008080808",
-            "rg": "90284872394",
-            "filial": "Aquiraz",
-            "dataCadastro": "01/01/2019",
-            "cadastradoPor": "Josinaldo",
-            "status": "ativo",
-            "tipo": true,
-            "apelido": "Claudinho",
-            "telefone1": "085985036384",
-            "telefone2": "080877736372",
-            "telefone3": "090909090909",
-            "telefone4": "121212121212",
-            "email": "claudio@gmail.com",
-            "loginCentral": "1231",
-            "senhaCentral": "123",
-            "condominio": true,
-            "endereco": "rua dos animais",
-            "numero": "420",
-            "complemento": "ao lado",
-            "referencia": "igreja",
-            "obs": "nenhuma"
-          }
-        
-     },
-     {
-      "id": "0002",
-       "dados": 
-         {
-           "nome": "Antonio Mesquita Filho",
-           "cpf": "08008080808",
-           "rg": "90284872394",
-           "filial": "Aquiraz",
-           "dataCadastro": "01/01/2019",
-           "cadastradoPor": "Josinaldo",
-           "status": "ativo",
-           "tipo": false,
-           "apelido": "Claudinho",
-           "telefone1": "085985036384",
-           "telefone2": "080877736372",
-           "telefone3": "090909090909",
-           "telefone4": "121212121212",
-           "email": "claudio@gmail.com",
-           "loginCentral": "1231",
-           "senhaCentral": "123",
-           "condominio": false,
-           "endereco": "rua dos animais",
-           "numero": "420",
-           "complemento": "ao lado",
-           "referencia": "igreja",
-           "obs": "nenhuma"
-         }
-       
+   "atendimentosEncerrados" : [
+    {
+      "atendimento": "0001",
+      "dadosN": {
+        "contrato": "0001",
+        "name": "Antonio Claudio Ferreira de Mesquita Filho",
+        "idade": "23",
+        "date": "5/12/2020",
+        "hora": "09:00",
+        "tipo": "reparo",
+        "numero": "86868686",
+        "prioridade": "media",
+        "color": "#FFB749",
+        "descricao":
+          "um belo teste para passar como parametro para ver se o teste vai ficar bem feito ashdiuabbkuysbuybcusydbcuysbducybsdycb ydbcuybdcud dycsuybdcuysdbc  dscuyscuybudybcu sydc dscusydv cudsvcusvc ydscuy svcusvd cuys uydsvcusvcsv cytv sdcvystvcytscvysvcyt sdcvystcystc sytsc hsbcusavcsdavcjstvc sadvcyastcjsdvc tsavcytsvcytsavc stvacyucvystd ctavuytcvaytvca astvcutsvcasucy sdyatvcustdvcytsvcyuasvc uaystvtsvctysvdcyuasd sytcvsvcytsvcysvc sdcvystvcytscvysvcyt sdcvystcystc sytsc hsbcusavcsdavcjstvc sadvcyastcjsdvc tsavcytsvcytsavc stvacyucvystd ctavuytcvaytvca astvcutsvcasucy sdyatvcustdvcytsvcyuasvc uaystvtsvctysvdcyuasd sytcvsvcytsvcysvc sdcvystvcytscvysvcyt sdcvystcystc sytsc hsbcusavcsdavcjstvc sadvcyastcjsdvc tsavcytsvcytsavc stvacyucvystd ctavuytcvaytvca astvcutsvcasucy sdyatvcustdvcytsvcyuasvc uaystvtsvctysvdcyuasd sytcvsvcytsvcysvc ",
+        "currentLatitude": "-3.906300",
+        "currentLongitude": "-38.393557"
+      }
+    },
+    {
+      "atendimento": "0002",
+      "dadosN": {
+        "contrato": "0002",
+        "name": "Antonio Claudio Ferreira de Mesquita Filho",
+        "idade": "23",
+        "date": "5/12/2020",
+        "hora": "09:00",
+        "tipo": "reparo",
+        "numero": "86868686",
+        "prioridade": "media",
+        "color": "#40ABA5",
+        "descricao":
+          "um belo teste2 para passar como parametro para ver se o teste vai ficar bem feito ",
+        "currentLatitude": "-3.9069467",
+        "currentLongitude": "-38.3878706"
+      }
+    },
+    {
+      "atendimento": "0003",
+      "dadosN": {
+        "contrato": "0003",
+        "name": "Antonio Claudio Ferreira de Mesquita Filho",
+        "idade": "23",
+        "date": "5/12/2020",
+        "hora": "09:00",
+        "tipo": "reparo",
+        "numero": "86868686",
+        "prioridade": "media",
+        "color": "#C93F3F",
+        "descricao":
+          "um belo teste3 para passar como parametro para ver se o teste vai ficar bem feito",
+        "currentLatitude": "-3.9068174",
+        "currentLongitude": "-38.3870233"
+      }
     }
-   ],
-   "servicos" : 
-     {
-      "contrato": "0000003",
-              "plano": "Plano de 200MB",
-              "dataContrata": "23/12/2019",
-              "vencimento": 10,
-              "valor": "40,00",
-              "situacao": "Ativo",
-              "fidelidade": "Sim",
-              "virgencia": "23/12/2022"
-        }     
+    ]
 }
