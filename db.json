@@ -144,37 +144,43 @@
         "id" : 1,
         "descricao": "Um novo chamado",
         "stack" : "MainTab",
-        "nav" : "Home"
+        "nav" : "Home",
+        "read" : true
       },
       {
         "id" : 2,
         "descricao": "Um novo item no estoque",
         "stack" : "MainTab",
-        "nav" : "Estoque"
+        "nav" : "Estoque",
+        "read" : true
       },
       {
         "id" : 3,
         "descricao": "Um novo chamado",
         "stack" : "MainTab",
-        "nav" : "Home"
+        "nav" : "Home",
+        "read" : false
       },
       {
         "id" : 4,
         "descricao": "Um novo chamado",
         "stack" : "MainTab",
-        "nav" : "Home"
+        "nav" : "Home",
+        "read" : false
       },
       {
         "id" : 5,
         "descricao": "Um novo chamado",
         "stack" : "MainTab",
-        "nav" : "Home"
+        "nav" : "Home",
+        "read" : true
       },
       {
         "id" : 6,
         "descricao": "Um novo chamado",
         "stack" : "MainTab",
-        "nav" : "Home"
+        "nav" : "Home",
+        "read" : true
       }
     ]
 }
